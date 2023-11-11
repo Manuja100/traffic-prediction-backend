@@ -40,4 +40,30 @@ Step 2: Build the model
 
 a. import the necessary libraries.
 
-b.
+b. import the pre processed dataset
+
+c. split the dataset into input and output
+
+d. balance the dataset
+
+e. split to train test data
+
+f. Initialize the random forest classifier
+
+g. tune the hyperparameters, can use grid search csv to find optimum amount of decision trees
+
+h. train the model and the save the trained model using pickle
+
+================================================================
+
+Step 3: Building the flask application
+
+a. importing the libs
+
+b. loading the model
+
+c. building the routes
+
+d. getting the input from the user then using the same preprocessing as we did for the data set
+
+e. predict the value and return through the /predict route
