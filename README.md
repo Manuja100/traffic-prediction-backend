@@ -67,3 +67,11 @@ c. building the routes
 d. getting the input from the user then using the same preprocessing as we did for the data set
 
 e. predict the value and return through the /predict route
+
+
+
+Conclusion -
+![Random Forest - Confusion Metrix](https://github.com/Manuja100/traffic-prediction-backend/assets/99438342/2540c1cd-785b-426c-a234-c9c815bdacf3)
+![Random Forest - Classification Report](https://github.com/Manuja100/traffic-prediction-backend/assets/99438342/03cc0c3b-1ae1-4dc4-8b44-38700ee914d3)
+
+
